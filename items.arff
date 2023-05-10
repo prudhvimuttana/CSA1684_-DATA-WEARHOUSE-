@@ -1,0 +1,12 @@
+@relation Value
+@attribute Hotdogs{true,flase}
+@attribute Buns{true,flase}
+@attribute Ketchup{true,flase}
+@attribute Coke{true,flase}
+@attribute Chips{true,flase}
+@data
+true,true,true,flase,flase
+true,true,flase,flase,flase
+true,flase,flase,true,true
+flase,flase,flase,true,true
+flase,flase,true,flase,true
