@@ -1,0 +1,12 @@
+@relation Value
+@attribute Sony{true,flase}
+@attribute Samsung{true,flase}
+@attribute Lg{true,flase}
+@attribute Bpl{true,flase}
+@attribute Onida{true,flase}
+@data
+true,true,true,flase,flase
+true,true,flase,flase,flase
+true,flase,flase,true,true
+flase,flase,flase,true,true
+flase,flase,true,flase,true
